@@ -1,0 +1,2 @@
+Bỏ thư mục assets vô ổ đĩa C để chạy code
+Linh download img and music: https://drive.google.com/file/d/1UkIbM3g9MuwXtStS0D2-OUBwWkyJgPc9/view?usp=sharing
